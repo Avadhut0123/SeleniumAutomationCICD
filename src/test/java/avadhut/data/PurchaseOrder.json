@@ -1,0 +1,13 @@
+[
+	{
+		"email"	: "testframe@sharklasers.com",
+		"passWord" : "Pass@123",
+		"productName" : "ZARA COAT 3"
+	},
+	
+	{
+		"email"	: "king1@gmail.com",
+		"passWord" : "Pass@123",
+		"productName" : "ADIDAS ORIGINAL"
+	}
+]

@@ -1,0 +1,8 @@
+avadhut\pageobjects\CheckoutPage.class
+avadhut\AbstractComponents\AbstractComponent.class
+avadhut\pageobjects\OrderPage.class
+avadhut\resources\ExtentReporterNG.class
+avadhut\pageobjects\CartPage.class
+avadhut\pageobjects\ConfirmationPage.class
+avadhut\pageobjects\ProductCatalogue.class
+avadhut\pageobjects\LandingPage.class
